@@ -8,7 +8,9 @@ public class Dog extends Animal{
     public void pee() {
         System.out.println("I'm pee-pee");
     }
-
+    public void sleep() {
+        System.out.println("I'm sleaping");
+    }
     public void showName(){
         System.out.println();
     }
